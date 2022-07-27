@@ -1,0 +1,6 @@
+@import url('../index.css');
+
+.gameOver h2 span{
+    color: var(--dourado);
+    font-size: 1.5em;
+}
