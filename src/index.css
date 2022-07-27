@@ -1,3 +1,7 @@
+:root{
+  --dourado: #ecfa00;
+}
+
 html,
 body {
   height: 100%;
